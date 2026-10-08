@@ -1,0 +1,11 @@
+# Windows System Files
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+$RECYCLE.BIN/
+
+# Mac OS Files (in case a anyone uses a Mac)
+.DS_Store
+
+# Temporary Office Documents
+~$*
