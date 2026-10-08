@@ -19,4 +19,4 @@ To keep our collaboration peaceful, steady, and organized, we share the followin
 
 ## 🗺️ Project Navigation
 Explore our interconnected repositories:
-*   [**Project Documentation**](link-to-repo) - Ideas, plans, meeting notes, and architecture maps.
+*   [**Project Documentation**](https://github.com/OIT-HealthNet/project-docs) - Ideas, plans, meeting notes, and architecture maps.
